@@ -14,7 +14,7 @@ const Card: React.FC<CardProps> = ({title, description, slug}: CardProps) => {
                 <h5 className="card-title">{title}</h5>
                 <p className="card-text">{description}</p>
                 <Link href={'/project/' + slug}>
-                    <a className="btn btn-primary disabled">See details (coming soon)</a>
+                    <a className="btn btn-primary">See details</a>
                 </Link>
             </div>
         </div>

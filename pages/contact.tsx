@@ -11,7 +11,7 @@ const Contact: React.FC = () => {
         const [submit, submitting] = useFormspark({
             formId: "ED9svWaB"
         });
-        const [message, setMessage] = useState("");
+        const [message, setMessage] = useState('');
         return (
             <form onSubmit={async (e) => {
                 e.preventDefault();
