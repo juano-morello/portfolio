@@ -17,7 +17,7 @@ const ProjectPage: React.FC<ProjectPageProps> = ({project}: ProjectPageProps) =>
                 <p className="lead mb-4">{project.description}</p>
                 <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
                     <Link href={'/projects'}>
-                        <a className="btn btn-secondary btn-lg">Go back</a>
+                        <a className="btn btn-secondary btn">Go back</a>
                     </Link>
                 </div>
             </div>

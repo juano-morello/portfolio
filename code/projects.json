@@ -1,5 +1,15 @@
 [
   {
+    "title": "The CasperSwap Protocol",
+    "description": "Technical documentation and refactor on pre-existing smart contracts for an exchange on the Casper network (Solana based blockchain)",
+    "slug": "cl24wfw2y000009jtdojhhn6w"
+  },
+  {
+    "title": "Eventazos",
+    "description": "Backend microservices development with Spring Cloud",
+    "slug": "cl24wmybx000209jt3kehglf8"
+  },
+  {
     "title": "Dingo.io",
     "description": "Fullstack web development based on a Next.JS with Next.JS API serverless architecture",
     "slug": "ckskr5dgd000008mk7w5h5v2w"
